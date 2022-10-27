@@ -1,6 +1,6 @@
 # Whittaker-Fourier-series-in-N-4-Super-Yang-Mills-Theory
 
-The code searches for the Fourier expansion of the generalized Eisenstein series $\mathcal{E}(r, \alpha, \beta)$ in a specific form. For the definition of the latter, see (1.6) in https://arxiv.org/abs/2008.02713
+The code searches for the Fourier expansion of the generalized Eisenstein series $\mathcal{E}(r, \alpha, \beta)$ in a specific form. It is complementary to the preprint https://arxiv.org/pdf/2209.09319
 
 The folder "examples" contains .nb files with pre-calculated modes of the generalized Eisenstein series for small values of parameters for $n_1>0$ and $n_2>0$. Using those does not require you to have anything installed rather than Mathematica 12; if you require more solutions to be calculated, please feel free to email us!
  
